@@ -15,6 +15,7 @@ build/
 dist/
 docs/_build
 txi2p.egg-info/
+txi2p_tahoe.egg-info/
 vcversioner-*.egg/
 _version.py
 version.txt
